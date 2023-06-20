@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jigar Shankhpal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+- 👨‍💻 All of my projects are available at [https://jigarportfolio.netlify.app/](https://jigarportfolio.netlify.app/)
+
+- 💬 Ask me about **Angular & Dotnet.**
+
+- 📫 How to reach me **sjigar2762@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sjigar2762" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sjigar2762" height="30" width="40" /></a>
